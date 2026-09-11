@@ -1,2 +1,4 @@
 Hello, Welcome, Lets study Git and Github
 Ok, happy to study
+
+Hi, Day 2 of Git Study
